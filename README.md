@@ -1,2 +1,2 @@
 # react-starter-vite
-*prettier & Eslint & json (config)
+*prettier & Eslint & package.json (config)
